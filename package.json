@@ -1,0 +1,7 @@
+{
+  "name": "pwn-request-poc",
+  "version": "1.0.0",
+  "scripts": {
+    "postinstall": "echo PWN-REQUEST-CANARY"
+  }
+}
